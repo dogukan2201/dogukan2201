@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **husnudogukan@gmail.com**
 
-- 📄 Know about my experiences [https://green-quentin-20.tiiny.site/](https://green-quentin-20.tiiny.site/)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1qhX6PR9z6D41gFtvFBzt8CfxJjiocnMK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
