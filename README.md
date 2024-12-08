@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Dogukan+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   <br />
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dogukan2201&style=flat-square&color=blue" alt="Profile views" />
 </div>
 
 <div align="center">
@@ -38,8 +38,8 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dogukan2201&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dogukan2201&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -62,4 +62,3 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Thanks+for+visiting!+Feel+free+to+reach+out+%F0%9F%98%8A" alt="Typing SVG" />
 </div>
-
