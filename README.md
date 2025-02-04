@@ -39,7 +39,7 @@
 
 <div align="center">
   <h2>🤝 Connect with Me</h2>
-  <a href="https://linkedin.com/in/doğukan-öztürk-862497221/" target="_blank">
+  <a href="https://www.linkedin.com/in/dogukan-ozturk-862497221/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:husnudogukan@gmail.com">
@@ -49,7 +49,7 @@
 
 <div align="center">
   <h2>📄 Resume</h2>
-  <a href="https://drive.google.com/file/d/1qhX6PR9z6D41gFtvFBzt8CfxJjiocnMK/view?usp=sharing" target="_blank">
+  <a href="https://docs.google.com/document/d/1Y6UMl0bKnQh3bW474D2J8YuRi6ExI-PW/edit?usp=drive_link&ouid=101041546416668089907&rtpof=true&sd=true" target="_blank">
     <img src="https://img.shields.io/badge/-View%20Resume-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Resume" />
   </a>
 </div>
