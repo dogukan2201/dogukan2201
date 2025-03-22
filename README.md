@@ -6,7 +6,7 @@
 <div align="center">
   <h2>🚀 About Me</h2>
   <p>
-    I'm a passionate fullstack developer from Turkey, always eager to learn and create innovative solutions. With a strong foundation in both frontend and backend technologies, I strive to build robust and user-friendly applications.
+    I'm a passionate software developer from Turkey, always eager to learn and create innovative solutions. With a strong foundation in both frontend and backend technologies, I strive to build robust and user-friendly applications.
   </p>
 </div>
 
